@@ -28,7 +28,22 @@ h2{
     text-transform: uppercase;
     letter-spacing: .5em;
     color: cadetblue;
+}
 
+h2+p{
+text-align: center;
+font-style: italic;
+}
+
+dt{
+    font-weight: bold;
+    color: olivedrab;
+}
+
+h1{
+    font: bold 1.5rem "Marko one",Georgia,serif;
+    color: olive;
+    text-shadow: .1em .1em .05em gainsboro;
 }
 
 dt {
