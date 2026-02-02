@@ -1,0 +1,41 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: georgia,serif;
+    line-height: 1.75;
+}
+
+h1 {
+    font: bold 1.5rem "Marko One", georgia,serif;
+    color:olivedrab;
+}
+
+
+
+h2 {
+    font-size: 1rem;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dt strong {
+    font-style: italic;
+    color: tomato;
+}
+
+#info {color: cadetblue;}
+#info p{font-style: italic;}
+.price{font-style: italic;
+color: grey;
+}
+.label{font-variant: small-caps;
+font-style: normal;
+}
+p.warning, sup{
+    font-size:small;
+color: tomato;
+}
