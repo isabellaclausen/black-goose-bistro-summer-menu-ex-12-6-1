@@ -18,6 +18,19 @@ h2 {
     font-size: 1rem;
 }
 
+h1,h2, #info{
+    text-align: center;
+}
+
+h2{
+
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    color: cadetblue;
+
+}
+
 dt {
     font-weight: bold;
 }
